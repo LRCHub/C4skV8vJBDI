@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "心牆",
+  "base_artist": "郭靜",
+  "createdAt": "2026-02-14T13:32:08.149110Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "心牆",
+      "artist": "郭靜",
+      "has_synced": true,
+      "path": "select/01_心牆_郭靜.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "心牆",
+      "artist": "Claire Kuo",
+      "has_synced": true,
+      "path": "select/02_心牆_Claire_Kuo.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "心牆",
+      "artist": "林俊傑",
+      "has_synced": true,
+      "path": "select/03_心牆_林俊傑.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "心牆",
+      "artist": "JJ Lin",
+      "has_synced": true,
+      "path": "select/04_心牆_JJ_Lin.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "心牆",
+      "artist": "林俊傑",
+      "has_synced": true,
+      "path": "select/05_心牆_林俊傑.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "心牆",
+      "artist": "Claire Kuo",
+      "has_synced": true,
+      "path": "select/06_心牆_Claire_Kuo.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "心牆",
+      "artist": "郭靜",
+      "has_synced": false,
+      "path": "select/07_心牆_郭靜.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "心牆",
+      "artist": "郭静",
+      "has_synced": true,
+      "path": "select/08_心牆_郭静.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "心牆",
+      "artist": "林俊傑 JJ Lin",
+      "has_synced": false,
+      "path": "select/09_心牆_林俊傑_JJ_Lin.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "心牆",
+      "artist": "林俊杰",
+      "has_synced": false,
+      "path": "select/10_心牆_林俊杰.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "心牆",
+      "artist": "JJ Lin 林俊傑",
+      "has_synced": true,
+      "path": "select/11_心牆_JJ_Lin_林俊傑.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "心牆",
+      "artist": "郭靜",
+      "has_synced": true,
+      "path": "select/12_心牆_郭靜.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "心牆",
+      "artist": "林俊傑",
+      "has_synced": true,
+      "path": "select/13_心牆_林俊傑.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "心牆",
+      "artist": "郭靜",
+      "has_synced": false,
+      "path": "select/14_心牆_郭靜.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "心牆",
+      "artist": "萬芳",
+      "has_synced": true,
+      "path": "select/15_心牆_萬芳.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "心牆",
+      "artist": "郭靜",
+      "has_synced": false,
+      "path": "select/pl_01_心牆_郭靜.txt"
+    }
+  ]
+}
